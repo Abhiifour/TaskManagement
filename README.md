@@ -2,6 +2,11 @@
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
+# Stacks 
+This App is created using React , TailwindCSS , Shadcn , RecoilJs , React-Hot-Toast.
+# Live On: 
+https://totaskmanager.netlify.app/
+
 ## Available Scripts
 
 In the project directory, you can run:
